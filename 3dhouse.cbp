@@ -398,7 +398,7 @@ void cabinet1(){
 void bed1(){
     glPushMatrix();
         glScalef(0.75,1,0.75);
-        /*----------------Mattress------------------------*/
+        /*----------------Mattress-----------------------*/
         glPushMatrix();//Mattress
             glColor3ub(221, 221, 221);
             glTranslatef(0,0.1,0);
